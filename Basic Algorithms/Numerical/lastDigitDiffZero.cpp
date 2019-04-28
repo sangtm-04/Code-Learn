@@ -26,3 +26,4 @@ int lastDigitDiffZero(int n)
     }
     return result;
 }
+
